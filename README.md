@@ -1,2 +1,2 @@
-devsecops_gitlab
+# devsecops-lab
 Projeto criado para exercitar meus conhecimentos em desenvolvimento e cibersegurança.
